@@ -1,0 +1,1 @@
+# python-koukoku-shadan-reader
